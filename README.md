@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning so many courses in SJTU.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ?
-> Nobody cares.
+> ganmocai-sch@sjtu.edu.cn.
 
 <!---
 GanMocai/GanMocai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
