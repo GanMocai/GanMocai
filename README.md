@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @GanMocai
-- 👀 I’m interested in ...
-- 🌱 I’m currently ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Reinforcement Learning in Power System.
+- 🌱 I’m currently studying at SJTU.
 - 📫 How to reach me ?
-> justSOS@aliyun.com
+    > justSOS@aliyun.com
 
 <!---
 GanMocai/GanMocai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
