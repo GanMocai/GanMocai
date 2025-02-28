@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GanMocai
-- 👀 I’m interested in Reinforcement Learning in Power System.
+- 👀 I’m interested in the application of Reinforcement Learning in Power System.
 - 🌱 I’m currently studying at SJTU.
 - 📫 How to reach me ?
     > justSOS@aliyun.com
